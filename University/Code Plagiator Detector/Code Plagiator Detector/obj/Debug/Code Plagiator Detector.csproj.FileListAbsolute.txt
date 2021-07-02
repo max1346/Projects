@@ -1,0 +1,10 @@
+C:\Users\Max\Desktop\Teza de An\Code Plagiator Detector\Code Plagiator Detector\obj\Debug\Code Plagiator Detector.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\Teza de An\Code Plagiator Detector\Code Plagiator Detector\obj\Debug\Code_Plagiator_Detector.Form1.resources
+C:\Users\Max\Desktop\Teza de An\Code Plagiator Detector\Code Plagiator Detector\obj\Debug\Code_Plagiator_Detector.Properties.Resources.resources
+C:\Users\Max\Desktop\Teza de An\Code Plagiator Detector\Code Plagiator Detector\obj\Debug\Code Plagiator Detector.csproj.GenerateResource.cache
+C:\Users\Max\Desktop\Teza de An\Code Plagiator Detector\Code Plagiator Detector\obj\Debug\Code Plagiator Detector.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\Teza de An\Code Plagiator Detector\Code Plagiator Detector\bin\Debug\Code Plagiator Detector.exe.config
+C:\Users\Max\Desktop\Teza de An\Code Plagiator Detector\Code Plagiator Detector\bin\Debug\Code Plagiator Detector.exe
+C:\Users\Max\Desktop\Teza de An\Code Plagiator Detector\Code Plagiator Detector\bin\Debug\Code Plagiator Detector.pdb
+C:\Users\Max\Desktop\Teza de An\Code Plagiator Detector\Code Plagiator Detector\obj\Debug\Code Plagiator Detector.exe
+C:\Users\Max\Desktop\Teza de An\Code Plagiator Detector\Code Plagiator Detector\obj\Debug\Code Plagiator Detector.pdb
